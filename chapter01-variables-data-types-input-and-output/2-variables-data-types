@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main() 
+{
+    int number = 20;
+    // "int" is used for integers (whole) number 
+    float pi = 3.14;
+    // "float" is used to store decimal number
+    char percentage = '%';
+    // "char" is used to store a single character
+    return 0;
+}

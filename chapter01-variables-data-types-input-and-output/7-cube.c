@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    int n , cube;
+    
+	// Take a number (n) from user & output its cube (n*n*n)
+	printf("Enter a number");
+	scanf("%d" , &n);
+	
+	printf("Cube is : %d" , n * n * n);
+	
+	return 0;
+
+}
+
